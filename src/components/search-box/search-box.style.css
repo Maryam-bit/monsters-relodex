@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 14rem;
+    line-height: 30px;
+    margin-bottom: 30px;
+    font-family: 'Akaya Telivigala', cursive;
+  }
+  
